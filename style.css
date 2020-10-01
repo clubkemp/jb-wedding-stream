@@ -28,8 +28,9 @@ label {
     max-width: 100%;
     height: auto;
 }
-#bold{
-    font-weight: bold;
+.desc-content{
+    display: flex;
+    justify-content: center;
 }
 
 /*
@@ -156,6 +157,7 @@ a.pure-button-primary {
 /* This is the class used for the content sub-headers (<h3>) */
 .content-subhead {
     color: #1f8dd6;
+    text-align: center;
 }
     .content-subhead i {
         margin-right: 7px;

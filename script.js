@@ -1,6 +1,7 @@
 $(document).ready(function(){
     // "sept 29, 2020 20:52:00"
-var countDownDate = new Date("Oct 3, 2020 2:00:00").getTime();
+    // 
+var countDownDate = new Date("Oct 3, 2020 2:25:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
